@@ -1,0 +1,17 @@
+.navbar-nav {
+    float:none;
+    margin:0 auto;
+    display: inline-block;
+    text-align: center;
+}
+
+.navbar-nav > li {
+    display: inline-block;
+    float:none;
+}
+
+.header {
+    background: url('https://paperpull.com/wp-content/uploads/2018/11/black-and-white-supreme-logo-wallpaper.jpg') 
+}
+
+  
